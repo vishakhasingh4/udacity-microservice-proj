@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/vishakhasingh4/microservice-udacity-project.svg?style=svg)](https://circleci.com/gh/vishakhasingh4/microservice-udacity-project)
+[![CircleCI](https://circleci.com/gh/vishakhasingh4/udacity-microservice-proj.svg?style=svg)](https://circleci.com/gh/vishakhasingh4/udacity-microservice-proj)
 
 
 
